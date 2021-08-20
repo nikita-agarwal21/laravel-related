@@ -1,0 +1,13 @@
+<!--blade templating engine by laravel-->
+<!--<h1>hello from user view //{//{$name}}</h1>-->
+<!--<x-header data="users Component  Header"/>
+<h1>hello users from user view </h1>
+@//foreach //($collection as $item)
+    
+@//endforeach
+
+@//for()
+                //condition statements
+
+@//endfor
+-->
